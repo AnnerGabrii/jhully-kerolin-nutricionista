@@ -220,10 +220,10 @@ h3{font-size:28px;line-height:1.08}
 .space-gallery{grid-template-columns:1fr;gap:12px}
 .space-gallery img{height:230px;border-radius:22px}
 .testimonials{padding:28px 0}
-.quote-card{padding:22px;border-radius:24px}
-.quote-card p{font-size:21px;line-height:1.45;margin:18px 0}
-.quote-card span{font-size:15px}
-.stars{font-size:18px;margin-bottom:4px}
+.quote-card{padding:18px;border-radius:22px}
+.quote-card p{font-size:17px;line-height:1.5;margin:14px 0}
+.quote-card span{font-size:13px}
+.stars{font-size:16px;margin-bottom:2px}
 .faq{padding:28px 0}
 .faq summary{padding:18px 0;font-size:16px}
 .faq p{font-size:15px;line-height:1.65}
